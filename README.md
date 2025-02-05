@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://youtu.be/R8CIO1DZ2b8" target="_blank">
-      <img src="https://github.com/headlessripper/BoBaas/blob/main/Screenshot%20(116).png" alt="Project Banner">
+      <img src="https://github.com/headlessripper/BoBaas/blob/main/Screenshot%20(8).png" alt="Project Banner">
     </a>
   
   <br />
