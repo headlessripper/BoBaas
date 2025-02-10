@@ -31,7 +31,7 @@ const MobileNav = () => {
               height={32}
               alt="BoBaas Academy of Exellence logo"
             />
-            <p className="text-[26px] font-extrabold text-white">BoBaas Academy of Exellence</p>
+            <p className="text-[26px] font-extrabold text-white">BoBaas Academy of Excellence</p>
           </Link>
           <div className="flex h-[calc(100vh-72px)] flex-col justify-between overflow-y-auto">
             <SheetClose asChild>
